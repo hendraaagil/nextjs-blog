@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Next.js Sample Website
+
+![Preview](public/images/preview.png)
+
+You can try to make this at [Learn Next.js](https://nextjs.org/learn).
